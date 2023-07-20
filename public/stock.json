@@ -1,0 +1,119 @@
+
+    {
+  "stock": [
+    {
+      "id": 1,
+      "image": "./AssetsJSON/Img/1.png",
+      "likeimg": "./Assets/img/like.png",
+      "title": "Laptop HP Envy x360",
+      "price": 800,
+      "type": "Ordenadores",
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "image": "./AssetsJSON/Img/2.png",
+      "likeimg": "./Assets/img/like.png",
+      "title": "Sony WH-1000XM4 Auriculares Inalámbricos",
+      "price": 350,
+      "type": "Auriculares",
+      "quantity": 1
+    },
+    {
+      "id": 3,
+      "image": "./AssetsJSON/Img/3.png",
+      "likeimg": "./Assets/img/like.png",
+      "title": "Micrófono Blue Yeti USB",
+      "price": 150,
+      "type": "Micrófonos",
+      "quantity": 1
+    },
+    {
+      "id": 4,
+      "image": "./AssetsJSON/Img/4.png",
+      "likeimg": "./Assets/img/like.png",
+      "title": "Monitor Dell Ultrasharp 27\"",
+      "price": 450,
+      "type": "Monitores",
+      "quantity": 1
+    },
+    {
+      "id": 5,
+      "image": "./AssetsJSON/Img/5.png",
+      "likeimg": "./Assets/img/like.png",
+      "title": "Logitech MX Master 3 Ratón Inalámbrico",
+      "price": 100,
+      "type": "Accesorios",
+      "quantity": 1
+    },
+    {
+      "id": 6,
+      "image": "./AssetsJSON/Img/6.png",
+      "likeimg": "./Assets/img/like.png",
+      "title": "Apple AirPods Pro Auriculares Inalámbricos",
+      "price": 250,
+      "type": "Auriculares",
+      "quantity": 1
+    },
+
+    {
+        "id": 7,
+        "image": "./AssetsJSON/Img/7.png",
+        "likeimg": "./Assets/img/like.png",
+        "title": "Lenovo Yoga 2-in-1 Convertible Laptop",
+        "price": 700,
+        "type": "Ordenadores",
+        "quantity": 1
+      },
+
+      {
+        "id": 8,
+        "image": "./AssetsJSON/Img/8.png",
+        "likeimg": "./Assets/img/like.png",
+        "title": "Samsung Galaxy Buds Pro",
+        "price": 180,
+        "type": "Auriculares",
+        "quantity": 1
+      },
+
+      {
+        "id": 9,
+        "image": "./AssetsJSON/Img/9.png",
+        "likeimg": "./Assets/img/like.png",
+        "title": "Razer BlackWidow V3 Gaming Keyboard",
+        "price": 150,
+        "type": "Accesorios",
+        "quantity": 1
+      },
+
+      {
+        "id": 10,
+        "image": "./AssetsJSON/Img/10.png",
+        "likeimg": "./Assets/img/like.png",
+        "title": "Apple MacBook Air",
+        "price": 1200,
+        "type": "Ordenadores",
+        "quantity": 1
+      },
+
+      {
+        "id": 11,
+        "image": "./AssetsJSON/Img/11.png",
+        "likeimg": "./Assets/img/like.png",
+        "title": "Samsung Odyssey G9 Curved Gaming Monitor",
+        "price": 1500,
+        "type": "Monitores",
+        "quantity": 1
+      },
+
+      {
+        "id": 12,
+        "image": "./AssetsJSON/Img/12.png",
+        "likeimg": "./Assets/img/like.png",
+        "title": "Bose QuietComfort 35 II Auriculares Inalámbricos",
+        "price": 300,
+        "type": "Auriculares",
+        "quantity": 1
+      }
+  ]
+}
